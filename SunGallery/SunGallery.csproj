@@ -97,6 +97,12 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Album.cs" />
+    <Compile Include="Models\Duration.cs" />
+    <Compile Include="Models\File.cs" />
+    <Compile Include="Models\Video.cs" />
+    <Compile Include="Models\Picture.cs" />
+    <Compile Include="Models\Resolution.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
