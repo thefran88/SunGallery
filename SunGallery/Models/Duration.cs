@@ -9,6 +9,7 @@ namespace SunGallery.Models
     {
         public float InSeconds { get; set; }
         
+
         public string CompleteDuration()
         {
             return "";

@@ -10,6 +10,7 @@ namespace SunGallery.Models
         public int Width { get; set; } = 1;
         public int Height { get; set; } = 1;
 
+
         public float InMegaPixels()
         {
             return 1;

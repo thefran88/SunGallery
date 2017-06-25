@@ -15,6 +15,7 @@ namespace SunGallery.Models
         public DateTime DateModified { get; set; }
         public string Extension { get; set; }
 
+
         public bool CopyFileTo(string path)
         {
             return false;
